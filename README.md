@@ -6,8 +6,7 @@
 <br>
 
 
-### Recent Activity!
+## Recent Activity!
 <!--START_SECTION:activity-->
 NONE 
 <!--END_SECTION:activity-->
-
