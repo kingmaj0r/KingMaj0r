@@ -2,6 +2,7 @@
 <br>
 [![My GitHub stats!](https://github-readme-stats.vercel.app/api?username=kingmaj0r&show_icons=true&theme=tokyonight)](https://github.com/KingMaj0r)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingmaj0r&theme=tokyonight&layout=compact)](https://github.com/KingMaj0r)
+[![KingMaj0r wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KingMaj0r)](https://github.com/KingMaj0r)
 <br>
 
 
