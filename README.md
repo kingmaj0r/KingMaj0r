@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/kingmaj0r)](https://github.com/kingmaj0r)
+[![Visits Badge](https://badges.pufler.dev/visits/kingmaj0r/kingmaj0r)](https://github.com/kingmaj0r)
 [![Profile](https://raw.githubusercontent.com/kingmaj0r/KingMaj0r/master/index.png)](https://github.com/KingMaj0r)
 <br>
 [![My GitHub stats!](https://github-readme-stats.vercel.app/api?username=KingMaj0r&show_icons=true&theme=dracula)](https://github.com/KingMaj0r)
