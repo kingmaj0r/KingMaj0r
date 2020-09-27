@@ -7,5 +7,5 @@
 
 ## Recent Activity!
 <!--START_SECTION:activity-->
-NONE 
+1. Working on the website!
 <!--END_SECTION:activity-->
