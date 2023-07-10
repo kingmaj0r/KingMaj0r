@@ -1,6 +1,6 @@
 # Hello there 👋
 
-[![Profile](https://raw.githubusercontent.com/kingmaj0r/KingMaj0r/master/indexv2.png)](https://github.com/KingMaj0r)
+[![Profile](https://raw.githubusercontent.com/kingmaj0r/KingMaj0r/master/indexv3.png)](https://github.com/KingMaj0r)
 
 Welcome to my GitHub profile! I'm Kingmaj0r, a software developer and tech enthusiast.
 
