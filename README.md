@@ -95,9 +95,9 @@ Welcome to my GitHub profile! I'm Kingmaj0r, a software developer and tech enthu
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Working on Novafinity!
+1. Working on Pulseframe!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Novafinity&theme=transparent&repo=Novafinity)](https://github.com/Novafinity)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pulseframe&theme=transparent&repo=Pulseframe)](https://github.com/pulseframe)
 <!--END_SECTION:activity-->
 
 Thank you for visiting my profile. Don't forget to check out my repositories and leave a star if you find something interesting!
