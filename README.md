@@ -1,16 +1,16 @@
-# Hello there 👋
+# Welcome to My GitHub Profile 👋
 
 [![Profile](https://raw.githubusercontent.com/kingmaj0r/KingMaj0r/master/index.png)](https://github.com/KingMaj0r)
 
-Welcome to my GitHub profile! I'm Kingmaj0r, a software developer and tech enthusiast.
+Hello! I'm Kingmaj0r, a passionate software developer and technology enthusiast. Explore my repositories to discover my work and contributions to the tech community.
 
-## GitHub Stats
+## GitHub Statistics
 
 [![My GitHub stats!](https://github-readme-stats.vercel.app/api?username=kingmaj0r&show_icons=true&theme=transparent)](https://github.com/KingMaj0r)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingmaj0r&theme=transparent&layout=donut)](https://github.com/kingmaj0r)
 
-## Technologies & Tools
+## Skills & Tools
 
 ### Programming Languages
 
@@ -22,9 +22,7 @@ Welcome to my GitHub profile! I'm Kingmaj0r, a software developer and tech enthu
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
     <img alt="Vuejs" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-    <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
     <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
     <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
