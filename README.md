@@ -38,7 +38,7 @@ Hello! I'm Kingmaj0r, a passionate software developer and technology enthusiast.
 ### Operating Systems
 
 <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=ubuntu,debian,windows,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,raspberrypi" />
 </p>
 
 ## 👋 Contributions
