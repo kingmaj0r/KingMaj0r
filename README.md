@@ -15,7 +15,7 @@ Hello! I'm Kingmaj0r, a passionate software developer and technology enthusiast.
 <div align="center">
 
 ### Programming Languages
-  <img src="https://skillicons.dev/icons?i=css,html,js,ts,vue,php,rust,python,java,kotlin,lua,ruby,c,cpp,cs,dart&perline=8" />
+  <img src="https://skillicons.dev/icons?i=css,html,js,ts,vue,php,rust,python,java,kotlin,lua,go,ruby,c,cpp,cs,dart&perline=8" />
 
 ### Frameworks, Libraries & Tools
   <img src="https://skillicons.dev/icons?i=bootstrap,laravel,nodejs,react,nuxtjs,nextjs,tailwind,webpack,vite,wordpress,dotnet,electron,expressjs,jquery,flutter,vuetify,arduino,raspberrypi,babel,docker,github,githubactions,git,nginx,gradle,bun,cmake,nix&perline=8" />
