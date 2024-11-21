@@ -7,46 +7,44 @@ Hello! I'm Kingmaj0r, a passionate software developer and technology enthusiast.
 
 ## 🏆 Trophies
 <p align="center">
-  <img src="https://trophies-three.vercel.app/?username=KingMaj0r&theme=algolia&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://trophies-three.vercel.app/?username=KingMaj0r&theme=algolia&no-frame=true&no-bg=true&column=6" />
 </p>
 
 ## 🛠 Skills & Tools
 
+<div align="center">
+
 ### Programming Languages
+  <img src="https://skillicons.dev/icons?i=css,html,js,ts,vue,php,rust,python,java,kotlin,lua,ruby,c,cpp,cs,dart&perline=8" />
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=css,html,js,php,ts,rust,vue,python,java,lua,ruby,c,cpp,cs,dart" />
-</p>
+### Frameworks, Libraries & Tools
+  <img src="https://skillicons.dev/icons?i=bootstrap,laravel,nodejs,react,nuxtjs,nextjs,tailwind,webpack,vite,wordpress,dotnet,electron,expressjs,jquery,flutter,vuetify,arduino,raspberrypi,babel,docker,github,githubactions,git,nginx,gradle,bun,cmake,nix&perline=8" />
 
-### Frameworks & Libraries
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,laravel,nodejs,react,nuxtjs,nextjs,tailwind,webpack,vite,wordpress,dotnet,electron,expressjs,jquery,flutter" />
-</p>
+### Databases & Platforms
+  <img src="https://skillicons.dev/icons?i=redis,mongodb,mysql,postgres" />
 
-### Databases
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=redis,mongodb,mysql,postgres" />
-</p>
-
-### Tools & Platforms
-
-<p align="center"> 
-    <img src="https://skillicons.dev/icons?i=arduino,babel,docker,github,githubactions,git,nginx,gradle,bun" />
-</p>
-  
 ### Operating Systems
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
 
-<p align="center"> 
-    <img src="https://skillicons.dev/icons?i=linux,windows,raspberrypi" />
-</p>
+</div>
 
 ## 👋 Contributions
 <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingMaj0r&theme=github-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingMaj0r&theme=github-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 </p>
 
 ## 📊 Stats
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://readme-stats-lake-seven.vercel.app/api/?username=KingMaj0r&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="KingMaj0r's Stats" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=KingMaj0r&theme=algolia&hide_border=true" alt="KingMaj0r's Streak Stats" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://readme-stats-lake-seven.vercel.app/api/?username=KingMaj0r&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="deepabhyudaya's Stats" />
 </p>
