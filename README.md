@@ -44,13 +44,6 @@ Hello! I'm Kingmaj0r, a passionate software developer and technology enthusiast.
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://readme-stats-lake-seven.vercel.app/api/?username=KingMaj0r&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="deepabhyudaya's Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KingMaj0r&theme=algolia&hide_border=true" alt="deepabhyudaya's Top Languages"  />
-</p>
 <p align="center">
   <img src="https://readme-stats-lake-seven.vercel.app/api/top-langs/?username=KingMaj0r&layout=donut&theme=algolia&hide_border=true" alt="deepabhyudaya's Top Languages" />
 </p>
