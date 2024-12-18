@@ -48,7 +48,7 @@ Hello! I'm Kingmaj0r, a passionate software developer and technology enthusiast.
   </tr>
 </table>
 <p align="center">
-  <img src="https://readme-stats-lake-seven.vercel.app/api/top-langs/?username=KingMaj0r&layout=donut&theme=algolia&hide_border=true" alt="kingmaj0r's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingMaj0r&layout=donut&theme=algolia&hide_border=true" alt="kingmaj0r's Top Languages" />
 </p>
 
 Thank you for visiting my profile. Don't forget to check out my repositories and leave a star if you find something interesting!
