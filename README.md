@@ -7,7 +7,7 @@ Hello! I'm Kingmaj0r, a passionate software developer and technology enthusiast.
 
 ## 🏆 Trophies
 <p align="center">
-  <img src="https://trophies-three.vercel.app/?username=KingMaj0r&theme=algolia&no-frame=true&no-bg=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KingMaj0r&theme=algolia&no-frame=true&no-bg=true&column=5" />
 </p>
 
 ## 🛠 Skills & Tools
@@ -40,7 +40,7 @@ Hello! I'm Kingmaj0r, a passionate software developer and technology enthusiast.
 <table>
   <tr>
     <td align="center">
-      <img src="https://readme-stats-lake-seven.vercel.app/api/?username=KingMaj0r&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="KingMaj0r's Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/?username=KingMaj0r&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="KingMaj0r's Stats" />
     </td>
     <td align="center">
       <img src="https://streak-stats.demolab.com/?user=KingMaj0r&theme=algolia&hide_border=true" alt="KingMaj0r's Streak Stats" />
