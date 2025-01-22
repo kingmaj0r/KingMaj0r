@@ -18,7 +18,7 @@ Hello! I'm Kingmaj0r, a passionate software developer and technology enthusiast.
   <img src="https://go-skill-icons.vercel.app/api/icons?i=css,html,js,ts,vue,php,rust,python,java,kotlin,lua,go,ruby,c,cpp,cs,dart&perline=8" />
 
 ### Frameworks, Libraries & Tools
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,laravel,nodejs,react,nuxtjs,nextjs,tailwind,webpack,vite,wordpress,dotnet,electron,expressjs,jquery,flutter,vuetify,arduino,raspberrypi,babel,docker,github,githubactions,git,nginx,gradle,bun,cmake,nix&perline=8" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,laravel,nodejs,react,nuxtjs,nextjs,tailwind,webpack,vite,wordpress,dotnet,electron,expressjs,jquery,flutter,vuetify,arduino,raspberrypi,babel,docker,github,githubactions,git,nginx,gradle,bun,cmake,nix,gtk,qt&perline=8" />
 
 ### Databases & Platforms
   <img src="https://go-skill-icons.vercel.app/api/icons?i=redis,mongodb,mysql,postgres" />
