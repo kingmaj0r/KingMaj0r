@@ -32,11 +32,9 @@ Hello! I'm Kingmaj0r, a passionate software developer and technology enthusiast.
 </div>
 
 ## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingMaj0r&theme=github-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingMaj0r&layout=donut&theme=algolia&hide_border=true" alt="kingmaj0r's Top Languages" />
+<p align="center" display="flex">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingMaj0r&theme=github-dark&hide_border=true&hide_title=false&height=550&area=true&days=30" width="69%" alt="activity graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingMaj0r&theme=github_dark&layout=compact&hide_border=true&langs_count=15" alt="kingmaj0r's Top Languages" />
 </p>
 
 Thank you for visiting my profile. Don't forget to check out my repositories and leave a star if you find something interesting!
