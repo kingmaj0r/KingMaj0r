@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-[![Profile](https://raw.githubusercontent.com/kingmaj0r/KingMaj0r/master/index.png)](https://github.com/KingMaj0r)
+[![Profile](banner.png)](https://github.com/KingMaj0r)
 
 Hello! I'm Kingmaj0r, a passionate software developer and technology enthusiast. Explore my repositories to discover my work and contributions to the tech community.
 
